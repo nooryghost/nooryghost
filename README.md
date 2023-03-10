@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Django and DRF<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning MySql and etc like new packages for my Django productivity<br>💬 Ask me about Django<br>⚡ i'm junior backend developer
+🔭 I’m currently working on Django and DRF<br><br>🌱 I’m currently learning MySql and etc like new packages for my Django productivity<br>💬 Ask me about Django<br>⚡ i'm junior backend developer
 
 
 # 💻 Tech Stack:
